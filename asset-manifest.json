@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/roulette_game/static/css/main.c1a4a060.chunk.css",
-    "main.js": "/roulette_game/static/js/main.36b4d35b.chunk.js",
-    "main.js.map": "/roulette_game/static/js/main.36b4d35b.chunk.js.map",
+    "main.js": "/roulette_game/static/js/main.d75553ef.chunk.js",
+    "main.js.map": "/roulette_game/static/js/main.d75553ef.chunk.js.map",
     "runtime-main.js": "/roulette_game/static/js/runtime-main.5761d728.js",
     "runtime-main.js.map": "/roulette_game/static/js/runtime-main.5761d728.js.map",
     "static/css/2.67123b20.chunk.css": "/roulette_game/static/css/2.67123b20.chunk.css",
     "static/js/2.5c9da054.chunk.js": "/roulette_game/static/js/2.5c9da054.chunk.js",
     "static/js/2.5c9da054.chunk.js.map": "/roulette_game/static/js/2.5c9da054.chunk.js.map",
     "index.html": "/roulette_game/index.html",
-    "precache-manifest.a8eb504c9549111383b2f921647b88bd.js": "/roulette_game/precache-manifest.a8eb504c9549111383b2f921647b88bd.js",
+    "precache-manifest.3ff5e2a31246f940da5d6719ef9a5cca.js": "/roulette_game/precache-manifest.3ff5e2a31246f940da5d6719ef9a5cca.js",
     "service-worker.js": "/roulette_game/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/roulette_game/static/css/2.67123b20.chunk.css.map",
     "static/css/main.c1a4a060.chunk.css.map": "/roulette_game/static/css/main.c1a4a060.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.67123b20.chunk.css",
     "static/js/2.5c9da054.chunk.js",
     "static/css/main.c1a4a060.chunk.css",
-    "static/js/main.36b4d35b.chunk.js"
+    "static/js/main.d75553ef.chunk.js"
   ]
 }

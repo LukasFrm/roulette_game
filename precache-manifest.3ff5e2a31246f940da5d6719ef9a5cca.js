@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08c487dc323e75e4ec6f36bef4565ec3",
+    "revision": "c6c57f4c48467abb06cd70f153d116c2",
     "url": "/roulette_game/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roulette_game/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "2ea40dd6e1ef0ee2a26b",
+    "revision": "cce97fb6f87252280112",
     "url": "/roulette_game/static/css/main.c1a4a060.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roulette_game/static/js/2.5c9da054.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ea40dd6e1ef0ee2a26b",
-    "url": "/roulette_game/static/js/main.36b4d35b.chunk.js"
+    "revision": "cce97fb6f87252280112",
+    "url": "/roulette_game/static/js/main.d75553ef.chunk.js"
   },
   {
     "revision": "9c00a14cc208241df215",
