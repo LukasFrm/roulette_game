@@ -1,0 +1,101 @@
+html, body {
+  min-width: 100% !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+span {
+  display: block;
+}
+
+.row {
+  margin: 10px 0 !important
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.cold {
+  background-color: #d9edf7;
+}
+
+.hot {
+  background-color: #f2dede;
+}
+
+.btn-black {
+  color: #fff !important;
+  background-color: #000000 !important;
+  border-color: #222222 !important;
+}
+
+.btn-red {
+  color: #fff !important;
+  background-color: #d9534f !important;
+  border-color: #ac2925 !important;
+}
+
+.btn-green {
+  color: #fff !important;
+  background-color: #449d44 !important;
+  border-color: #398439 !important;
+}
+
+button {
+  min-width: 41px;
+}
+
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  color: #333;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.blink_me {
+  animation: blinker 1s linear 3s;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px !important;
+  }
+}
